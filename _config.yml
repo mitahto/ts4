@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   But who was phone?
 twitter_username: 
 github_username: 
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: 
 search: true
 
 # Build settings
